@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "730414608619",
+    "firebase_url": "https://akhri-30623.firebaseio.com",
+    "project_id": "akhri-30623",
+    "storage_bucket": "akhri-30623.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730414608619:android:f2d23ab66579b4a18a8eae",
+        "android_client_info": {
+          "package_name": "com.akhri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730414608619-asqq5vb81q72770jm6v010jko0f8il3r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.akhri",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "730414608619-bp5f6r5feu34h56ohb1jc0bj7hcprtl5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfqdm5nMkDwqB_ljmQChKQKsFbanBD2w8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730414608619-bp5f6r5feu34h56ohb1jc0bj7hcprtl5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
